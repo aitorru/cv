@@ -8,9 +8,7 @@ This repository contains Aitor Ruiz's curriculum vitae written in LaTeX.
 - `experience/` – professional experience.
 - `education/` – academic background.
 - `projects/` – selected projects.
-- `skills/` – technical skills.
-
-The main `cv.tex` file includes these sections.
+- The main `cv.tex` file includes these sections.
 
 ## Usage
 
