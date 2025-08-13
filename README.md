@@ -1,13 +1,13 @@
 # cv
 
-Plantilla de CV en LaTeX.
+LaTeX CV template.
 
-## Uso
+## Usage
 
-1. Edita `cv.tex` con tu información.
-2. Compila localmente con:
+1. Edit `cv.tex` with your information.
+2. Compile locally with:
    ```bash
    pdflatex cv.tex
    ```
 
-Cada commit y cada pull request activan una pipeline que compila y publica `cv.pdf` como artefacto. En las pull requests, la acción deja un comentario con un enlace al artefacto generado.
+Pushes to `main` and all pull requests trigger a pipeline that compiles and uploads `cv.pdf` as an artifact. For pull requests, the action comments with a link to the generated artifact.
